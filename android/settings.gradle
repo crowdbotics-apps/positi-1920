@@ -1,0 +1,3 @@
+rootProject.name = 'positi_1920'
+
+include ':app'
